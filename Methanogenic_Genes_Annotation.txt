@@ -1,0 +1,115 @@
+Gene	Pathway	Pathway2	Pathway3	Annotation
+rnfB	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Na+-translocating ferredoxin:NAD+oxidoreductase
+hdrA1	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+mcrA	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Methyl-coenzyme M reductase
+mcrB	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Methyl-coenzyme M reductase
+hdrD	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+fpoL	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+fpoB	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+mtrH	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+hdrB1	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+mvhA	Central methanogenic pathway			F420-nonreducing hydrogenase
+mtrE	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+mtrA	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+echA	Central methanogenic pathway			Ech hydrogenase
+fpoN	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+fpoM	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+mtrC	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+frhG	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Coenzyme F420 hydrogenase
+vhtG	Central methanogenic pathway			Methanophenazine hydrogenase
+frhB	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Coenzyme F420 hydrogenase
+frhA	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Coenzyme F420 hydrogenase
+rnfA	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Na+-translocating ferredoxin:NAD+oxidoreductase
+mcrG	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Methyl-coenzyme M reductase
+mtrD	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+fpoD	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+rnfD	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Na+-translocating ferredoxin:NAD+oxidoreductase
+echB	Central methanogenic pathway			Ech hydrogenase
+mcrC	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Methyl-coenzyme M reductase
+hdrE	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+hdrC1	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+hdrA2	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+mcrD	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Methyl-coenzyme M reductase
+ehbN	Central methanogenic pathway			Energy-converting hydrogenase B
+rnfE	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Na+-translocating ferredoxin:NAD+oxidoreductase
+hdrB2	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+ehbO	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaJ	Central methanogenic pathway			Energy-converting hydrogenase A
+fpoA	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+rnfG	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Na+-translocating ferredoxin:NAD+oxidoreductase
+fpoI	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+mtrG	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+fpoH	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+ehaH	Central methanogenic pathway			Energy-converting hydrogenase A
+mvhD	Central methanogenic pathway			F420-nonreducing hydrogenase
+vhcA	Central methanogenic pathway			F420-nonreducing hydrogenase
+hdrC2	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Heterodisulphide reductase Na+-translocating
+mtrB	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+ehbM	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaO	Central methanogenic pathway			Energy-converting hydrogenase A
+fpoO	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+ehbQ	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaG	Central methanogenic pathway			Energy-converting hydrogenase A
+fpoJ	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+ehbE	Central methanogenic pathway			Energy-converting hydrogenase B
+frhD	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Coenzyme F420 hydrogenase
+mtrF	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		Tetrahydromethanopterin S-methyltransferase
+ehaB	Central methanogenic pathway			Energy-converting hydrogenase A
+ehaL	Central methanogenic pathway			Energy-converting hydrogenase A
+echC	Central methanogenic pathway			Ech hydrogenase
+ehbA	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaC	Central methanogenic pathway			Energy-converting hydrogenase A
+ehbD	Central methanogenic pathway			Energy-converting hydrogenase B
+ehbF	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaQ	Central methanogenic pathway			Energy-converting hydrogenase A
+ehbK	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaP	Central methanogenic pathway			Energy-converting hydrogenase A
+ehaR	Central methanogenic pathway			Energy-converting hydrogenase A
+fpoK	Central methanogenic pathway	Anaerobic oxidation of methane (AOM)		F420H2 dehydrogenase
+ehbB	Central methanogenic pathway			Energy-converting hydrogenase B
+ehbG	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaE	Central methanogenic pathway			Energy-converting hydrogenase A
+vhuA	Central methanogenic pathway			F420-nonreducing hydrogenase
+ehaM	Central methanogenic pathway			Energy-converting hydrogenase A
+ehbP	Central methanogenic pathway			Energy-converting hydrogenase B
+ehaA	Central methanogenic pathway			Energy-converting hydrogenase A
+ehbJ	Central methanogenic pathway			Energy-converting hydrogenase B
+fwdB	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Tungsten containing formylmethanofuran dehydrogenase
+mch	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)	Oxidation of formaldehyde	Methenyltetrahydromethanopterin cyclohydrolase
+fmdB	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Molybdenum containing formylmethanofuran dehydrogenase
+mer	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		"5,10-methylenetetrahydromethanopterin reductase"
+mtd	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Methylenetetrahydromethanopterin dehydrogenase
+fwdC	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Tungsten containing formylmethanofuran dehydrogenase
+fwdG	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Tungsten containing formylmethanofuran dehydrogenase
+hmd	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		"5,10-methenyltetrahydromethanopterin hydrogenase"
+fwdF	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Tungsten containing formylmethanofuran dehydrogenase
+fmdC	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Molybdenum containing formylmethanofuran dehydrogenase
+ftr	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Formylmethanofuran--tetrahydromethanopterin N-formyltransferase
+fwdH	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		Tungsten containing formylmethanofuran dehydrogenase
+metF	Hydrogenotrophic methanogenesis	Anaerobic oxidation of methane (AOM)		"5,10-methylenetetrahydrofolate reductase"
+ackA	Aceticlastic methanogenesis			Acetate kinase
+acs	Aceticlastic methanogenesis			Acetyl-CoA synthetase
+cdhA	Aceticlastic methanogenesis			"Anaerobic carbon-monoxide dehydrogenase, CODH/ACS complex"
+acdB	Aceticlastic methanogenesis			Acetate---CoA ligase (ADP-forming)
+pta	Aceticlastic methanogenesis			Phosphate acetyltransferase
+acdA	Aceticlastic methanogenesis			Acetate---CoA ligase (ADP-forming)
+cdhE	Aceticlastic methanogenesis			"Acetyl-CoA decarbonylase/synthase, CODH/ACS complex"
+cooS	Aceticlastic methanogenesis			Anaerobic carbon-monoxide dehydrogenase
+cdhD	Aceticlastic methanogenesis			"Acetyl-CoA decarbonylase/synthase, CODH/ACS complex"
+cdhC	Aceticlastic methanogenesis			"Acetyl-CoA decarbonylase/synthase, CODH/ACS complex"
+cdhB	Aceticlastic methanogenesis			"Anaerobic carbon-monoxide dehydrogenase, CODH/ACS complex"
+mtbC	Methylotrophic methanogenesis			Dimethylamine methyltransferase
+mtaB	Methylotrophic methanogenesis			Coenzyme M methyltransferase
+mtaA	Methylotrophic methanogenesis			Coenzyme M methyltransferase
+mtbB	Methylotrophic methanogenesis			Dimethylamine methyltransferase
+mttB	Methylotrophic methanogenesis			Trimethylamine methyltransferase
+mtaC	Methylotrophic methanogenesis			Coenzyme M methyltransferase
+mtmB	Methylotrophic methanogenesis			Monomethylamine methyltransferase
+mttC	Methylotrophic methanogenesis			Trimethylamine methyltransferase
+mtbA	Methylotrophic methanogenesis			Dimethylamine methyltransferase
+torA	Methylotrophic methanogenesis			Trimethylamine-N-oxide reductase
+mtmC	Methylotrophic methanogenesis			Monomethylamine methyltransferase
+torC	Methylotrophic methanogenesis			Trimethylamine-N-oxide reductase
+mtsA	Methylotrophic methanogenesis			Methylated-thiol--coenzyme m methyltransferase
+mtsB	Methylotrophic methanogenesis			Methylated-thiol--coenzyme m methyltransferase
+torD	Methylotrophic methanogenesis			Trimethylamine-N-oxide reductase
